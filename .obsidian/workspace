@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "9053352df28f0ad9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a64b11f658fa80e",
+        "type": "leaf",
+        "dimension": 52.43589743589744,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Linear Regression.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "03b7822672887e12",
+        "type": "leaf",
+        "dimension": 47.56410256410256,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Classification.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0a181dd748cff99",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e390b8df03ffe28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "341e865dbafd9e07",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "687fb6ef2f7594a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9837f7e36c50c95e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b470324fe8e2ec0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dabcf374e1ec8d9d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Classification.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "03b7822672887e12",
+  "lastOpenFiles": [
+    "Classification.md",
+    "Linear Regression.md",
+    "Regression.md",
+    "Turunan parsial.md",
+    "Learning rate.md",
+    "Gradient Descent.md",
+    "Cost Function.md",
+    "feature.md",
+    "Feature Scaling.md",
+    "Untitled.md"
+  ]
+}
