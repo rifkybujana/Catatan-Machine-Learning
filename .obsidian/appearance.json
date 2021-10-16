@@ -4,5 +4,6 @@
   "cssTheme": "Obsidianite",
   "enabledCssSnippets": [
     "Leftalign"
-  ]
+  ],
+  "theme": "obsidian"
 }

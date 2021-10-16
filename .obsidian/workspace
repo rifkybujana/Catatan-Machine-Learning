@@ -6,24 +6,24 @@
       {
         "id": "1a64b11f658fa80e",
         "type": "leaf",
-        "dimension": 52.43589743589744,
+        "dimension": 50.76923076923077,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linear Regression.md",
+            "file": "Binary Classification.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "03b7822672887e12",
+        "id": "9ba1a8d2c3c51677",
         "type": "leaf",
-        "dimension": 47.56410256410256,
+        "dimension": 49.23076923076923,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Readme.md",
-            "mode": "source"
+            "file": "Binary Classification.md",
+            "mode": "preview"
           }
         }
       }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "Binary Classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "03b7822672887e12",
+  "active": "1a64b11f658fa80e",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Classification.md",
+    "Binary Classification.md",
     "Linear Regression.md",
+    "Learning rate.md",
+    "Readme.md",
+    "Gradient Descent.md",
     "Regression.md",
     "Turunan parsial.md",
-    "Learning rate.md",
-    "Gradient Descent.md",
-    "Cost Function.md",
-    "feature.md",
-    "Feature Scaling.md"
+    "Classification.md",
+    "Untitled.md",
+    "Cost Function.md"
   ]
 }
