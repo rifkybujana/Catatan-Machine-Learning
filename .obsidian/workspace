@@ -22,8 +22,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classification.md",
-            "mode": "preview"
+            "file": "Readme.md",
+            "mode": "source"
           }
         }
       }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classification.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,7 @@
   },
   "active": "03b7822672887e12",
   "lastOpenFiles": [
+    "Untitled.md",
     "Classification.md",
     "Linear Regression.md",
     "Regression.md",
@@ -109,7 +110,6 @@
     "Gradient Descent.md",
     "Cost Function.md",
     "feature.md",
-    "Feature Scaling.md",
-    "Untitled.md"
+    "Feature Scaling.md"
   ]
 }
